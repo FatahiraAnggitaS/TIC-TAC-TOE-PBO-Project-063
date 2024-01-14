@@ -1,0 +1,7 @@
+Game ini merupakan game yang bernama 'TIC TAC TOE'.
+
+Tutorial:
+1. Pilih ingin bermain dengan Computer/Bot atau dengan Teman
+2. Setelah itu bergantian mengisi kolom yang diinginkan, hingga ditemukannya simbol sejajar maupun diagonal
+3. Maka salah satu dari player akan menang
+4. Geser-geserkan kursor pada bawah tabel 'TIC TAC TOE' untuk menemukan tombol 'RESET GAME'
